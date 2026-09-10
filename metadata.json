@@ -1,0 +1,6 @@
+{
+  "name": "Ebook TTS Reader",
+  "description": "Trình đọc ebook EPUB và PDF với giọng đọc TTS mạch lạc, hỗ trợ chạy Online/Offline và phát nền khi tắt màn hình điện thoại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
