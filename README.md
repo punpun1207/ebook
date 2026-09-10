@@ -4,7 +4,10 @@ Web Ebook (Test Project)
 1. Tính năng
 - Hiển thị danh sách các cuốn sách.
 - Giao diện đọc sách trên trình duyệt.
-- Thiết kế đơn giản, dễ sử dụng.
+- Chưa có tính năng lưu trữ trên trình duyệt.
 
 2. TTS
 - TTS mới ổn ở epub tiếng Anh, đang thử chức năng chạy nền.
+
+3. Test Web
+https://ebook-tts-reader.ai.studio/
