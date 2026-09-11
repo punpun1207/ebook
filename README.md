@@ -10,4 +10,4 @@ Web Ebook (Test Project)
 - TTS mới ổn ở epub tiếng Anh, đang thử chức năng chạy nền.
 
 3. Test Web
-https://ebook-tts-reader.ai.studio/
+(updating soon)
